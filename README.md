@@ -1,4 +1,4 @@
-### ✨I do what I have to. So you guys do what you have to.✨
+### ✨I do what I have to. So, you guys do what you have to too.✨
 
 [![92Tars's GitHub stats](https://github-readme-stats.vercel.app/api?username=92Tars&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
