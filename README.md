@@ -1,6 +1,6 @@
 ### ✨I do what I have to. So, you guys do what you have to too.✨
 
-[![GeekTars GitHub stats](https://github-readme-stats.vercel.app/api?username=92Tars&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![92Tars's GitHub stats](https://github-readme-stats.vercel.app/api?username=92Tars&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **92Tars/92Tars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
